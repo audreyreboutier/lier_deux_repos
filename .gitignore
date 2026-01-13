@@ -1,0 +1,9 @@
+#Fichier a ignorer : 
+secret.txt
+
+#Ignorer fichiers type specifique
+*.txt
+*.env
+
+#ignorer un dossier entier
+nom_dossier/
